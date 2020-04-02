@@ -1,0 +1,23 @@
+C:\Users\ENI\Documents\ENI TP\Xamarin\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\bin\Debug\netstandard2.0\ENI-Xamarin-TP-Module9.deps.json
+C:\Users\ENI\Documents\ENI TP\Xamarin\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\bin\Debug\netstandard2.0\ENI-Xamarin-TP-Module9.dll
+C:\Users\ENI\Documents\ENI TP\Xamarin\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\bin\Debug\netstandard2.0\ref\ENI-Xamarin-TP-Module9.dll
+C:\Users\ENI\Documents\ENI TP\Xamarin\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\bin\Debug\netstandard2.0\ENI-Xamarin-TP-Module9.pdb
+C:\Users\ENI\Documents\ENI TP\Xamarin\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\obj\Debug\netstandard2.0\ENI-Xamarin-TP-Module9.csprojAssemblyReference.cache
+C:\Users\ENI\Documents\ENI TP\Xamarin\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ENI\Documents\ENI TP\Xamarin\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\ENI\Documents\ENI TP\Xamarin\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\obj\Debug\netstandard2.0\Views\ItemDetailPage.xaml.g.cs
+C:\Users\ENI\Documents\ENI TP\Xamarin\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\obj\Debug\netstandard2.0\Views\ItemsPage.xaml.g.cs
+C:\Users\ENI\Documents\ENI TP\Xamarin\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\ENI\Documents\ENI TP\Xamarin\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\obj\Debug\netstandard2.0\Views\MenuPage.xaml.g.cs
+C:\Users\ENI\Documents\ENI TP\Xamarin\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\obj\Debug\netstandard2.0\Views\NewItemPage.xaml.g.cs
+C:\Users\ENI\Documents\ENI TP\Xamarin\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\obj\Debug\netstandard2.0\ENI-Xamarin-TP-Module9.csproj.CoreCompileInputs.cache
+C:\Users\ENI\Documents\ENI TP\Xamarin\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\obj\Debug\netstandard2.0\ENI-Xamarin-TP-Module9.AssemblyInfoInputs.cache
+C:\Users\ENI\Documents\ENI TP\Xamarin\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\obj\Debug\netstandard2.0\ENI-Xamarin-TP-Module9.AssemblyInfo.cs
+C:\Users\ENI\Documents\ENI TP\Xamarin\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ENI\Documents\ENI TP\Xamarin\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\obj\Debug\netstandard2.0\ENI-Xamarin-TP-Module9.dll
+C:\Users\ENI\Documents\ENI TP\Xamarin\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\obj\Debug\netstandard2.0\ref\ENI-Xamarin-TP-Module9.dll
+C:\Users\ENI\Documents\ENI TP\Xamarin\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\obj\Debug\netstandard2.0\ENI-Xamarin-TP-Module9.pdb
+C:\LeMixeur\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\obj\Debug\netstandard2.0\ENI-Xamarin-TP-Module9.csprojAssemblyReference.cache
+C:\LeMixeur\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\obj\Debug\netstandard2.0\ENI-Xamarin-TP-Module9.dll
+C:\LeMixeur\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\obj\Debug\netstandard2.0\ref\ENI-Xamarin-TP-Module9.dll
+C:\LeMixeur\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\ENI-Xamarin-TP-Module9\obj\Debug\netstandard2.0\ENI-Xamarin-TP-Module9.pdb

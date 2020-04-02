@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "o3L1bZVWQonj/v7Y9VWFyDpOn2vWTlVDkaeR+IkYQvq7jQiS52PGwNClUZtPSFaYshx1EFfkvSx6UidMXR5qZg==",
+  "success": true,
+  "projectFilePath": "C:\\LeMixeur\\ENI-Xamarin-TP-Module9\\ENI-Xamarin-TP-Module9\\ENI-Xamarin-TP-Module9\\ENI-Xamarin-TP-Module9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ENI\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ENI\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ENI\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}
